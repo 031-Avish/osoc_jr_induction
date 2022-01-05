@@ -1,0 +1,52 @@
+     Some Git Commands That Are Not Used In This Task
+
+     1) git init :-  
+                     The git init command is used to initialize a new git repository .
+		     This is the first command one should know to place a project 
+		     under revision control .
+
+     2)	git remote :-
+                     The git remote command is used to connect your local repository to the 
+		     remote server. This command allows you to create, view, and delete 
+		     connections to other repositories. This command doesn't provide 
+		     real-time access to repositories.
+
+     3) git revert :-
+                     The git revert command helps us to undo an existing commit. It does
+		     not delete any data in this process , instead, Git will create new 
+		     changes with the opposite effect .
+
+     4) git config :-
+                     The git config command is used initially to configure the user.name
+		     and user.email . This specifies what email id and username will be 
+		     used from a local repository.
+
+     5) git stash :-
+                     The git stash command can be used  when we want to save our work
+		     without staging or committing the code to our Git repository and 
+		     want to switch between branches.
+
+     6) git rebase :-
+                     The git rebase command is used to merge the history of two branches
+		     on a repository. It is often used to integrate changes from one
+                     branch onto another branch.
+
+     7) git fetch :-
+                     The git fetch command is used to downloads commits, files and other 
+		     content from a remote repository into your local repo. Fetching is
+		     done when we want to see what everybody else has been working on.
+
+     8) git clean :-
+                     The git clean command is a method for deleting untracked files in
+		     a repo's working directory. Untracked files are those that are in
+		     the repo's directory but have not yet been added to the repo's 
+		     index with git add .
+
+     9) git diff :-
+                     The git diff command shows the differences between the files in 
+		     two commits or between your current repository and a previous commit.
+
+     10) git status:-
+                     The git status command displays the state of the working directory 
+		     and the staging area. It let us see which changes have been staged, 
+		     which have not, and which files are not being tracked by Git.	
