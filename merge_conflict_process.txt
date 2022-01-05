@@ -1,0 +1,17 @@
+   What I have done to create a merge conflict 
+
+   a) Created a branch named demo 
+   b) Created a txt file in demo branch and edited that txt file with some content. 
+   c) Then created  a new branch named demo1 .
+   d) Edited the same txt file in branch demo1 and make a commit in demo1 . 
+   e) Now checkout to demo branch and edit the same txt file and make a commit in demo .
+   f) Now while merging demo1 to demo we face a conflict .
+
+   This conflict is resolved by me in following steps 
+
+   a) Opened the txt file with vim editor.
+   b) Then make the nessasary changes and select which file 
+        we have to commit and remove conflict maker.
+   c) Now add the file and make a commit .
+   d) By doing this my merge conflict is resolved and branches are merged succesfully.
+
