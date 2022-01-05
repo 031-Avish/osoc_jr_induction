@@ -1,0 +1,42 @@
+commit c936b1f1a0dd432ce9f949c742b95f4bf931cbfd
+Author: 031-Avish <avishmehta68@gmail.com>
+Date:   Wed Jan 5 21:47:59 2022 +0530
+
+    Steps about merge conflict written in txt file
+
+commit cbdc4008742b1df4f191527c6f32a781bbcee6e8
+Merge: 47e0603 7118381
+Author: 031-Avish <avishmehta68@gmail.com>
+Date:   Wed Jan 5 19:48:39 2022 +0530
+
+    solved merge conflict
+
+commit 47e0603e6152e875b5a6e69dd376db9cfb9dde47
+Author: 031-Avish <avishmehta68@gmail.com>
+Date:   Wed Jan 5 19:33:00 2022 +0530
+
+    Commit in demo branch
+
+commit 711838189bdd79320f2ec8bc7917a8bf2de5c568
+Author: 031-Avish <avishmehta68@gmail.com>
+Date:   Wed Jan 5 19:29:47 2022 +0530
+
+    Commit in demo1 branch
+
+commit 555ef38a304f7105927307f56e5aa4dcd3f0bbf3
+Author: 031-Avish <avishmehta68@gmail.com>
+Date:   Wed Jan 5 19:26:49 2022 +0530
+
+    Commit in demo1 branch
+
+commit ccd28327d9551dff44fbf204afb81057100773dc
+Author: 031-Avish <avishmehta68@gmail.com>
+Date:   Wed Jan 5 19:15:08 2022 +0530
+
+    Added git command txt file
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
